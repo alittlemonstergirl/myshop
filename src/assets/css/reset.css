@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background-color: #fff4f4; */
+}
+
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+input::-webkit-input-placeholder {
+    /* placeholder颜色  */
+    color: #999999;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
